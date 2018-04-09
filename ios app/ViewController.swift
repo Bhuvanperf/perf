@@ -9,6 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var bhuvan = 5;
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
